@@ -1,7 +1,6 @@
 /*
   Archivo: main.cpp
-  Autor: Natalia Lopez Osorio
-  Email: natalia.lopez.osorio@correounivalle.edu.co
+
   Fecha creación: 2022-05
   Fecha última modificación: 2022-05
 */
