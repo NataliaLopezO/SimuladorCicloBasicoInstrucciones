@@ -1,5 +1,5 @@
 /*
-  Archivo: Procesador.cpp
+  Archivo: Memoria.cpp
 
   Fecha creación: 2022-05
   Fecha última modificación: 2022-06-16
